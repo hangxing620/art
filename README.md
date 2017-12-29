@@ -49,19 +49,13 @@ This file file serves as your book's preface, a great place to describe your boo
 * 安全引导的作用
 * 文化价值的作用
 
-
-
 #### 标志的功能是信息传达
 
 理想的传达效果是信息传达者使其图形化的传达内容与信息接受者所理解和解释的意义相一致
 
-
-
 #### 渐变
 
 渐变是一种不显著的、非根本的变化，是事物在数量上的增或减
-
-
 
 #### 和谐的形式
 
@@ -70,19 +64,13 @@ This file file serves as your book's preface, a great place to describe your boo
 * 形的和谐
 * 关系要素的和谐
 
-
-
 #### 公共系统标志
 
 公共系统标志是社会公共场所管理法规的形象化，是无形的警察、无声的向导
 
-
-
 #### 抽象表现
 
 抽象表现是指以抽象的图形符号来表达标志的含义，它以理性规划的几何图形或符号作为表现形式。
-
-
 
 #### 标志设计的基本工作程序和方法
 
