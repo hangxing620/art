@@ -11,4 +11,6 @@
 * [设计基础--单选题/多选题](dan-xuan-9898-duo-xuan-9898-she-ji-ji-chu.md)
 * [招贴设计](zhao-tie-she-ji.md)
 * [标志设计](biao-zhi-she-ji.md)
+* [素描](su-miao.md)
+* [艺术概论--第一章](yi-zhu-gai-8bba-di-yi-zhang.md)
 
