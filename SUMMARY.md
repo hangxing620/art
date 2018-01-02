@@ -1,11 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* [环境设计艺术鉴赏--设计基础](chapter1.md)
-* [现代设计艺术鉴赏--设计基础](xian-dai-she-ji-yi-zhu-jian-shang.md)
-* [平面设计艺术鉴赏--设计基础](ping-mian-she-ji-yi-zhu-jian-shang.md)
-* [艺术绪论--设计基础](yi-zhu-xu-8bba-she-ji-ji-chu.md)
+* [设计基础--环境设计艺术鉴赏](chapter1.md)
+* [设计基础--现代设计艺术鉴赏](xian-dai-she-ji-yi-zhu-jian-shang.md)
+* [设计基础--平面设计艺术鉴赏](ping-mian-she-ji-yi-zhu-jian-shang.md)
+* [设计基础--艺术绪论](yi-zhu-xu-8bba-she-ji-ji-chu.md)
+* [设计基础--单选题/多选题](dan-xuan-9898-duo-xuan-9898-she-ji-ji-chu.md)
+* [设计基础--设计艺术的发展分类及特点](she-ji-ji-7840-she-ji-yi-zhu-de-fa-zhan-fen-lei-ji-te-dian.md)
 * [招贴设计](zhao-tie-she-ji.md)
-* [单选题/多选题--设计基础](dan-xuan-9898-duo-xuan-9898-she-ji-ji-chu.md)
 * [标志设计](biao-zhi-she-ji.md)
 
