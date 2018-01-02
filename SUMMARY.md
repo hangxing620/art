@@ -13,4 +13,5 @@
 * [标志设计](biao-zhi-she-ji.md)
 * [素描](su-miao.md)
 * [艺术概论--第一章](yi-zhu-gai-8bba-di-yi-zhang.md)
+* [艺术概论--第二章](yi-zhu-gai-8bba-di-er-zhang.md)
 
