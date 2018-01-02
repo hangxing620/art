@@ -7,8 +7,8 @@
 * [设计基础--艺术绪论](yi-zhu-xu-8bba-she-ji-ji-chu.md)
 * [设计基础--设计艺术的发展分类及特点](she-ji-ji-7840-she-ji-yi-zhu-de-fa-zhan-fen-lei-ji-te-dian.md)
 * [设计基础--工业产品设计鉴赏](she-ji-ji-7840-gong-ye-chan-pin-she-ji-jian-shang.md)
+* [设计基础--传统与民间工艺鉴赏](she-ji-ji-7840-chuan-tong-yu-min-jian-gong-yi-jian-shang.md)
 * [设计基础--单选题/多选题](dan-xuan-9898-duo-xuan-9898-she-ji-ji-chu.md)
 * [招贴设计](zhao-tie-she-ji.md)
 * [标志设计](biao-zhi-she-ji.md)
-* [设计基础--传统与民间工艺鉴赏](she-ji-ji-7840-chuan-tong-yu-min-jian-gong-yi-jian-shang.md)
 
