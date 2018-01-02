@@ -14,4 +14,5 @@
 * [素描](su-miao.md)
 * [艺术概论--第一章](yi-zhu-gai-8bba-di-yi-zhang.md)
 * [艺术概论--第二章](yi-zhu-gai-8bba-di-er-zhang.md)
+* [艺术概论--第三章](yi-zhu-gai-8bba-di-san-zhang.md)
 
