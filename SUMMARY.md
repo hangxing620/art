@@ -18,4 +18,6 @@
 * [艺术概论--第四章](yi-zhu-gai-8bba-di-si-zhang.md)
 * [艺术概论--第五章](yi-zhu-gai-8bba-di-wu-zhang.md)
 * [色彩](se-cai.md)
+* [毛泽东思想](mao-ze-dong-si-xiang.md)
+  * [第一章](mao-ze-dong-si-xiang/di-yi-zhang.md)
 
