@@ -20,4 +20,5 @@
 * [色彩](se-cai.md)
 * [毛泽东思想](mao-ze-dong-si-xiang.md)
   * [第一章](mao-ze-dong-si-xiang/di-yi-zhang.md)
+  * [第二章  新民主主义革命理论](mao-ze-dong-si-xiang/di-er-zhang-xin-min-zhu-zhu-yi-ge-ming-li-lun.md)
 
