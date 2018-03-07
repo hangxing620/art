@@ -23,4 +23,5 @@
   * [第二章  新民主主义革命理论](mao-ze-dong-si-xiang/di-er-zhang-xin-min-zhu-zhu-yi-ge-ming-li-lun.md)
   * [第三章  社会主义改造理论](mao-ze-dong-si-xiang/di-san-zhang-she-hui-zhu-yi-gai-zao-li-lun.md)
 * [思想政治](si-xiang-zheng-zhi.md)
+  * [掌握知识点](si-xiang-zheng-zhi/zhang-wo-zhi-shi-dian.md)
 
